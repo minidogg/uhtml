@@ -1,4 +1,4 @@
-const path = require('path')
-const build = require("../src/build.js")
+import path from 'path'
+import * as build from '../src/build.js'
 
-build.BuildApp(path.resolve("./"))
+build.BuildApp(path.resolve("./"), path.resolve('./build'))
