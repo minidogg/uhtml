@@ -1,4 +1,4 @@
-<import from="../components/hello.uhtml" as="hello" />
+<import from="../components/hello.uhtml" as="Hello" />
 <html lang="en">
 <head>
     <meta charset="UTF-8" />
