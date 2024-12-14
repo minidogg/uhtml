@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UHTML Testing Page</title>
+
+    <import from="../components/hello.uhtml" as="hello" />
+</head>
+<body>
+    <Hello>Goodbye</Hello>
+</body>
+</html>
