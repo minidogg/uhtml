@@ -1,3 +1,5 @@
+(This is not yet functional)
+
 # UHTML
 Fun little static site builder.
 
